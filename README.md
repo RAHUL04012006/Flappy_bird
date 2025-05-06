@@ -13,7 +13,6 @@ A faithful recreation of the classic Flappy Bird game with accurate physics and 
 - [Screenshots](#screenshots)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
