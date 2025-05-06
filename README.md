@@ -1,4 +1,3 @@
-It seems you're looking to generate or improve the `README.md` for your repository. Based on the information provided and the description of your project, here's a well-structured `README.md` template:
 
 ```markdown
 # Flappy Bird
