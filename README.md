@@ -9,7 +9,6 @@ A faithful recreation of the classic Flappy Bird game with accurate physics and 
 - [Features](#features)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
-- [Screenshots](#screenshots)
 - [Customization](#customization)
 - [Contributing](#contributing)
 
@@ -58,13 +57,6 @@ A faithful recreation of the classic Flappy Bird game with accurate physics and 
 
 ---
 
-## Screenshots
-
-*Include one or more screenshots of your game here to showcase its gameplay. For example:*
-
-![Game Screenshot](path/to/screenshot.png)
-
----
 
 ## Customization
 
@@ -98,5 +90,5 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 
 
 Enjoy recreating the classic Flappy Bird experience! 😊
-```
+
 
