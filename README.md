@@ -1,8 +1,7 @@
-
-```markdown
 # Flappy Bird
 
 A faithful recreation of the classic Flappy Bird game with accurate physics and customizable assets. This Python implementation uses **Pygame** to deliver the authentic Flappy Bird experience.
+![flappy_bird](https://github.com/user-attachments/assets/4b62781f-7176-4af7-9796-c9615b68ed22)
 
 ## Table of Contents
 
